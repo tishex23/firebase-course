@@ -70,6 +70,7 @@ function App() {
   return (
     <div className="App">
       <Auth />
+      <h1>hiiiiiii biaaatch</h1>
 
       <div>
       <input 
