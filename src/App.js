@@ -110,7 +110,7 @@ function App() {
             type="file" 
             onChange={(e) => setfileUpload(e.target.files[0])}
             />
-            <button onClick={uploadFile}>Upload</button>
+            <button onClick={uploadFile}>Upload fckin file</button>
           </div>
 
     </div>
